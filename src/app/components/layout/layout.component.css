@@ -1,0 +1,18 @@
+.mainContainer{
+    display: grid;
+    grid-template-rows: 20% 80%;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
+
+button{
+    padding:10px;
+    margin: 10px;
+    align-items: center;   
+    text-align: center;
+    cursor: pointer;
+}
+

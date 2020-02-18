@@ -1,0 +1,15 @@
+.selected {
+    background-color: rgb(255, 47, 134);
+    border: 2px solid rgb(255, 0, 64);
+}
+.a{
+cursor: pointer;
+}
+
+button{
+cursor: pointer;
+
+}
+div{
+    width:200px;   
+}
